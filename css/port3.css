@@ -364,7 +364,7 @@
             display:flex;align-items:center;justify-content:space-between;
             flex-wrap:wrap;gap:20px;
         }
-        .fl-l{font-family:'Playfair Display',serif;font-size:20px;color:var(--cream);}
+        .fl-l{font-family:serif;font-size:20px;color:var(--cream);}
         .fl-l em{color:var(--gold);}
         .fl-c{font-size:12px;color:#4a3f36;}
         .fl-r{display:flex;gap:12px;}

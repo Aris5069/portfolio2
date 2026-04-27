@@ -354,7 +354,7 @@
             border:none;border-radius:4px;
             font-size:14px;font-weight:500;cursor:pointer;
             letter-spacing:.5px;transition:.3s;
-            font-family:'DM Sans',sans-serif;
+            font-family:serif;
         }
         .f-btn:hover{background:var(--gold);color:var(--dark);}
 
